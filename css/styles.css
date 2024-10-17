@@ -340,6 +340,7 @@
       padding: 10px 0px 0px 0 ;
       border-bottom: #ccc solid 1px;
       font-size: 14px;
+      color :#fff;
     }
     .nav-main ul.nav-menu li:last-child {
       border-bottom: 0;
